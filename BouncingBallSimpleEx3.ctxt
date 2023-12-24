@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BouncingBallSimpleEx3
+comment1.params=
+comment1.target=int\ getRandomSpeed()
+comment2.params=
+comment2.target=BouncingBallSimpleEx3()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment6.params=
+comment6.target=void\ run()
+numComments=7
